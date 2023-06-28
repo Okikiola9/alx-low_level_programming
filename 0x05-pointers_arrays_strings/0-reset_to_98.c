@@ -1,4 +1,4 @@
-#nclude "main.h"
+#include "main.h"
 /**
  * reset_to_98 - this function moves the pointer int as parameter
  * and update the value as 98
